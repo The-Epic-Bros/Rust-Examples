@@ -1,4 +1,3 @@
 fn main() {
-	//cool beans
-    println!("Hello orld");
+    println!("Hello, World!");
 }
